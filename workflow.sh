@@ -19,3 +19,4 @@ echo "Bước 3: Chạy telegram_notifier.py (Gửi báo cáo)..."
 python telegram_notifier.py
 
 echo "--- Workflow HOÀN TẤT. ---"
+read -p "Nhấn ENTER để đóng cửa sổ..."
