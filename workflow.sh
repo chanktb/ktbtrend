@@ -32,4 +32,8 @@ echo "--- Workflow HOÀN TẤT. ---"
 echo "Dọn dẹp các file tạm thời..."
 rm -f top10_trends.txt git_status.txt
 # ------------------------------------------
+<<<<<<< HEAD
 read -p "Nhấn ENTER để đóng cửa sổ..."
+=======
+read -p "Nhấn ENTER để đóng cửa sổ..."
+>>>>>>> 49aea55a9b1d82daf6b58ae029e696496f1479e0
