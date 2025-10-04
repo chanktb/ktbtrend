@@ -10,3 +10,6 @@
 
 # File biến môi trường
 .env
+*.html
+top10_trends.txt
+git_status.txt
