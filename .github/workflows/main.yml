@@ -9,7 +9,10 @@ on:
 jobs:
   scrape_and_push:
     runs-on: ubuntu-latest
-    
+
+    permissions:
+      contents: write # Cấp quyền ghi (write) cho nội dung repo
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -51,3 +54,10 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GITHUB_REPOSITORY_URL: ${{ github.server_url }}/${{ github.repository }}
+
+      - name: Clean up temporary files
+        if: always() # Luôn chạy, kể cả khi các bước trước đó thất bại
+        run: |
+          echo "Dọn dẹp các file tạm thời..."
+          rm -f top10_trends.txt git_status.txt
+        shell: bash
