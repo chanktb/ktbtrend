@@ -1,0 +1,53 @@
+name: ktbtrend
+
+on:
+  schedule:
+    # Chạy mỗi 30 phút (tùy chọn) hoặc ít nhất 1 lần/ngày
+    - cron: '0 * * * *' # Chạy vào đầu mỗi giờ
+  workflow_dispatch: # Cho phép chạy thủ công
+
+jobs:
+  scrape_and_push:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          # Cần quyền token để push
+          token: ${{ secrets.GITHUB_TOKEN }} 
+          ref: main # Đảm bảo pull về đúng branch
+          
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      # --- 1. Chạy Scraper ---
+      - name: Run Trend Scraper
+        run: python main_scraper.py
+
+      # --- 2. Cấu hình Git cho GitHub Actions ---
+      - name: Configure Git
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+
+      # --- 3. Chạy Git Pusher ---
+      - name: Run Git Pusher and Commit
+        run: python git_pusher.py
+        env:
+          # Đảm bảo Git Pusher có thể sử dụng GITHUB_TOKEN (thường là mặc định)
+          GIT_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+      
+      # --- 4. Chạy Telegram Notifier ---
+      - name: Send Telegram Notification
+        run: python telegram_notifier.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GITHUB_REPOSITORY_URL: ${{ github.server_url }}/${{ github.repository }}
