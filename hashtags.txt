@@ -1,121 +1,118 @@
 Kyren Lacy|Kyren%20Lacy|13|1
-Diddy|Diddy|12|1
 Jay Jones|Jay%20Jones|12|7
-#DoubleUp|DoubleUp|10|1
-Happy Anniversary|Happy%20Anniversary|9|2
+Diddy|Diddy|10|1
+#DoubleUp|DoubleUp|9|1
 #SmackDown|SmackDown|8|1
 Dana Evans|Dana%20Evans|8|2
-Hanoi Jane|Hanoi%20Jane|8|13
 #WNBAFinals|WNBAFinals|7|3
+Happy Anniversary|Happy%20Anniversary|7|4
 Delaware|Delaware|7|10
 Kasich|Kasich|7|31
-Portland|Portland|6|2
+UCLA|UCLA|6|1
+Vandy|Vandy|6|2
 Hamas|Hamas|6|3
-Nick Sortor|Nick%20Sortor|6|6
+Hanoi Jane|Hanoi%20Jane|6|13
 Pepsi|Pepsi|6|23
 Ed Gein|Ed%20Gein|6|26
-Shabbat Shalom|Shabbat%20Shalom|6|27
 Steph|Steph|6|27
 Good Saturday|Good%20Saturday|5|1
-Hefner|Hefner|5|1
 Mark Sanchez|Mark%20Sanchez|5|1
-Taylor Swift|Taylor%20Swift|5|2
-Vandy|Vandy|5|2
+Penn State|Penn%20State|5|1
+Portland|Portland|5|2
+James Franklin|James%20Franklin|5|3
 Optimus|Optimus|5|3
 #GeneralConference|GeneralConference|5|4
 Iowa State|Iowa%20State|5|4
 Alyssa Thomas|Alyssa%20Thomas|5|5
 Wisconsin|Wisconsin|5|8
 Indianapolis|Indianapolis|5|9
+Gators|Gators|5|10
 Kung Fu|Kung%20Fu|5|11
 Vanderbilt|Vanderbilt|5|12
 Justine|Justine|5|14
 Final Score|Final%20Score|5|15
 #CupheadTurns8|CupheadTurns8|4|1
-UCLA|UCLA|4|1
+#UFC320|UFC320|4|1
 Caicedo|Caicedo|4|2
-Using Giverep|Using%20Giverep|4|2
+Hefner|Hefner|4|3
 Lakers|Lakers|4|4
+Phillies|Phillies|4|4
 Sunderland|Sunderland|4|4
-With Giverep|With%20Giverep|4|4
 #Caturday|Caturday|4|5
 Dallas Wilson|Dallas%20Wilson|4|5
 Liverpool|Liverpool|4|5
 TOP CALL|TOP%20CALL|4|5
-#FursuitFriday|FursuitFriday|4|6
 #TheLastDriveIn|TheLastDriveIn|4|6
 Bill Belichick|Bill%20Belichick|4|6
 FDV 5min|FDV%205min|4|6
 24H Vol|24H%20Vol|4|7
 Satou|Satou|4|7
+Teoscar|Teoscar|4|7
+Billy Napier|Billy%20Napier|4|8
 Jewell|Jewell|4|8
+Nick Sortor|Nick%20Sortor|4|9
 #RedOctober|RedOctober|4|10
 Cincinnati|Cincinnati|4|10
-Gators|Gators|4|10
 Jack Kelly|Jack%20Kelly|4|10
 AI Signal|AI%20Signal|4|11
-Cassie|Cassie|4|11
 Chase Roberts|Chase%20Roberts|4|11
 Jim Knowles|Jim%20Knowles|4|12
-Keeping Up Appearances|Keeping%20Up%20Appearances|4|12
 Jaxson Hayes|Jaxson%20Hayes|4|13
 Market Focus|Market%20Focus|4|14
-Bandcamp Friday|Bandcamp%20Friday|4|15
 Bournemouth|Bournemouth|4|15
 Fast Trading|Fast%20Trading|4|15
 Florida|Florida|4|15
-jeonghan|jeonghan|4|15
 Daily Vol|Daily%20Vol|4|16
 Suns|Suns|4|16
 Baylor|Baylor|4|17
 Hawkins|Hawkins|4|17
 Wilkins|Wilkins|4|17
-Church of England|Church%20of%20England|4|18
+Pavia|Pavia|4|18
 #RollTide|RollTide|4|19
 Smart Money Move|Smart%20Money%20Move|4|19
 End of the 3rd|End%20of%20the%203rd|4|20
 QUICK TRADE|QUICK%20TRADE|4|21
-SPLC|SPLC|4|21
 Western Kentucky|Western%20Kentucky|4|21
 Roger Stone|Roger%20Stone|4|23
 Vando|Vando|4|23
-Blockchain-based|Blockchain-based|4|24
 Bruins|Bruins|4|24
 Usher|Usher|4|24
-LOTO|LOTO|4|26
 Token Alert|Token%20Alert|4|26
+Shabbat Shalom|Shabbat%20Shalom|4|27
 Devin Booker|Devin%20Booker|4|28
 V FOR PARIS FASHION WEEK|V%20FOR%20PARIS%20FASHION%20WEEK|4|28
 Go Phils|Go%20Phils|4|30
-Keeneland|Keeneland|4|33
+#CampingWorld|CampingWorld|3|1
 Brewers|Brewers|3|1
-Penn State|Penn%20State|3|1
 #collegegameday|collegegameday|3|2
 $SAFU|%24SAFU|3|2
-#LegacyMVByYEOSANG|LegacyMVByYEOSANG|3|3
+Using Giverep|Using%20Giverep|3|2
 Boyd|Boyd|3|3
 Clemson|Clemson|3|3
 Dalot|Dalot|3|3
-James Franklin|James%20Franklin|3|3
 Sergio Pettis|Sergio%20Pettis|3|3
 Vicario|Vicario|3|3
 West Virginia|West%20Virginia|3|3
-#RUNonTubi|RUNonTubi|3|4
+Arch|Arch|3|4
 Arch Manning|Arch%20Manning|3|4
 Cubs|Cubs|3|4
 Game Day|Game%20Day|3|4
 Usman|Usman|3|4
+With Giverep|With%20Giverep|3|4
 #BYUFOOTBALL|BYUFOOTBALL|3|5
 Cathy|Cathy|3|5
+Sanchez|Sanchez|3|5
+Weaver|Weaver|3|5
 Chelsea|Chelsea|3|6
+Malachi Toney|Malachi%20Toney|3|6
+Ohtani|Ohtani|3|6
 Only 4|Only%204|3|6
 Through Giverep|Through%20Giverep|3|6
 Melo|Melo|3|7
 Michigan|Michigan|3|7
+Taylor Swift|Taylor%20Swift|3|7
 AI Alert|AI%20Alert|3|8
 Arthur Jones|Arthur%20Jones|3|8
-Billy Napier|Billy%20Napier|3|8
-Chavez|Chavez|3|8
 Gausman|Gausman|3|8
 #GoBlue|GoBlue|3|9
 Ayton|Ayton|3|9
@@ -125,23 +122,26 @@ Sark|Sark|3|9
 StandX|StandX|3|9
 Kahleah Copper|Kahleah%20Copper|3|10
 Kentucky|Kentucky|3|10
+Bama|Bama|3|11
+Carnell Tate|Carnell%20Tate|3|11
+Cassie|Cassie|3|11
 Glasker|Glasker|3|11
+Patchy Mix|Patchy%20Mix|3|11
 Check Analyze|Check%20Analyze|3|12
 Corey Heim|Corey%20Heim|3|12
 Ty Simpson|Ty%20Simpson|3|12
 Bear Bachmeier|Bear%20Bachmeier|3|13
 Rod Moore|Rod%20Moore|3|13
 Token Signal|Token%20Signal|3|13
+Bader|Bader|3|14
 Lagway|Lagway|3|14
 Leeds|Leeds|3|14
-Harmeet|Harmeet|3|15
+Carson Beck|Carson%20Beck|3|15
 Rich Rod|Rich%20Rod|3|15
 West Ham|West%20Ham|3|15
 Miller Moss|Miller%20Moss|3|16
 Purdue|Purdue|3|16
-Rich Spirit|Rich%20Spirit|3|16
-SAROCHA FLY TO PFW26|SAROCHA%20FLY%20TO%20PFW26|3|16
-John Gibbons|John%20Gibbons|3|17
+Canes|Canes|3|17
 St. Francis of Assisi|St.%20Francis%20of%20Assisi|3|17
 Ben Brown|Ben%20Brown|3|18
 CAIR|CAIR|3|18
@@ -151,91 +151,92 @@ Super Ed|Super%20Ed|3|19
 Austin Reaves|Austin%20Reaves|3|20
 Chiles|Chiles|3|20
 FDV Surge Alert|FDV%20Surge%20Alert|3|20
-Archbishop of Canterbury|Archbishop%20of%20Canterbury|3|21
 Matt Wells|Matt%20Wells|3|21
 Nico|Nico|3|21
+Strahm|Strahm|3|21
+Texas|Texas|3|21
 Parker Kingston|Parker%20Kingston|3|22
 Aztecs|Aztecs|3|23
-Black Thought|Black%20Thought|3|23
 Market Cap Surges|Market%20Cap%20Surges|3|23
 Bulldogs|Bulldogs|3|24
 Kid Rock|Kid%20Rock|3|24
 Wildcats|Wildcats|3|24
 Van Jones|Van%20Jones|3|25
 Friday Night Lights|Friday%20Night%20Lights|3|26
-Lee Roy Selmon|Lee%20Roy%20Selmon|3|26
-Morrow|Morrow|3|26
+Harper|Harper|3|27
 #HookEm|HookEm|3|28
-Anglican|Anglican|3|28
 Bearcats|Bearcats|3|28
 CELINE AMBASSADOR TAEHYUNG|CELINE%20AMBASSADOR%20TAEHYUNG|3|29
-Dowdle|Dowdle|3|29
 Sanae Takaichi|Sanae%20Takaichi|3|29
 Broadview|Broadview|3|30
+Julian Sayin|Julian%20Sayin|3|30
 SJSU|SJSU|3|31
-Soulbound|Soulbound|3|31
 Nebraska|Nebraska|3|33
+Shohei|Shohei|3|33
 Jerry Neuheisel|Jerry%20Neuheisel|3|34
-Folklore|Folklore|3|35
 Ayesha Curry|Ayesha%20Curry|3|37
-Richard Gere|Richard%20Gere|3|39
 Grammys|Grammys|3|40
 Bronny|Bronny|3|41
 $CRIM|%24CRIM|2|1
 Taylor|Taylor|2|1
 #byucpl|byucpl|2|2
 Theo Von|Theo%20Von|2|3
+#RUNonTubi|RUNonTubi|2|4
 #TSTheLifeOfAShowgirl|TSTheLifeOfAShowgirl|2|4
 #OPLive|OPLive|2|5
 #pfldubai|pfldubai|2|5
+$DAZS|%24DAZS|2|5
 Mac Jones|Mac%20Jones|2|5
 The SUI|The%20SUI|2|5
-Weaver|Weaver|2|5
 Justice Haynes|Justice%20Haynes|2|6
 Kalani|Kalani|2|6
+Miami|Miami|2|6
 Rams|Rams|2|6
 #LoveIslandGames|LoveIslandGames|2|7
 Hughes|Hughes|2|7
 Odegaard|Odegaard|2|7
-#UFC320|UFC320|2|8
+#FursuitFriday|FursuitFriday|2|8
 Semenyo|Semenyo|2|8
 Sesko|Sesko|2|8
-#FanCashDropPromotion|FanCashDropPromotion|2|9
 #RoadToDubai|RoadToDubai|2|9
 Andrea|Andrea|2|9
 Luis Gil|Luis%20Gil|2|9
-Teoscar|Teoscar|2|9
+Salter|Salter|2|9
 #TrumpsHealthCareShutdown|TrumpsHealthCareShutdown|2|10
 Bentancur|Bentancur|2|10
 Estevao|Estevao|2|10
 Mason Mount|Mason%20Mount|2|10
 #loveafterlockup|loveafterlockup|2|11
-Bama|Bama|2|11
+Chavez|Chavez|2|11
 Isak|Isak|2|11
 Kudus|Kudus|2|11
-#FridayVibes|FridayVibes|2|12
+#Dodgers|Dodgers|2|12
 Fred Perry|Fred%20Perry|2|12
 Gyokeres|Gyokeres|2|12
+Keeping Up Appearances|Keeping%20Up%20Appearances|2|12
 End 3Q|End%203Q|2|13
-LINGORM ONLY YOU EP12|LINGORM%20ONLY%20YOU%20EP12|2|13
+Kerry|Kerry|2|13
 49ers|49ers|2|14
-Good Friday|Good%20Friday|2|14
 Gunner Stockton|Gunner%20Stockton|2|14
+Khalil|Khalil|2|14
 Luke Fickell|Luke%20Fickell|2|14
 Sherrone Moore|Sherrone%20Moore|2|14
 Stanton|Stanton|2|14
 #CHELIV|CHELIV|2|15
 Aleister Black|Aleister%20Black|2|15
 Garnacho|Garnacho|2|15
+Harmeet|Harmeet|2|15
 Snipers|Snipers|2|15
 End of 3|End%20of%203|2|16
+Rich Spirit|Rich%20Spirit|2|16
 Zaria|Zaria|2|16
+#AEWCollision|AEWCollision|2|17
 Charlie Cerrato|Charlie%20Cerrato|2|17
 Drew Allar|Drew%20Allar|2|17
-Happy Friyay|Happy%20Friyay|2|17
-Pavia|Pavia|2|18
-Phillies|Phillies|2|18
+Castellanos|Castellanos|2|18
+Robertson|Robertson|2|18
 Wirtz|Wirtz|2|18
+Bandcamp Friday|Bandcamp%20Friday|2|19
 Chourio|Chourio|2|19
 Congratulations John|Congratulations%20John|2|19
 Jackie Young|Jackie%20Young|2|19
@@ -247,41 +248,55 @@ Slot|Slot|2|20
 VENEZUELA PUEBLO VALIENTE|VENEZUELA%20PUEBLO%20VALIENTE|2|20
 Vladdy|Vladdy|2|20
 50 Months|50%20Months|2|21
+SPLC|SPLC|2|21
 Tommy Jo|Tommy%20Jo|2|21
 Badgers|Badgers|2|22
+Church of England|Church%20of%20England|2|22
 Mercury|Mercury|2|22
 Pegula|Pegula|2|22
 Soroka|Soroka|2|22
 Actually Romantic|Actually%20Romantic|2|23
+Black Thought|Black%20Thought|2|23
 Bonner|Bonner|2|23
+Roki|Roki|2|23
+jeonghan|jeonghan|2|23
 #ThisIsMyCrew|ThisIsMyCrew|2|24
 Charli|Charli|2|24
 Colorado State|Colorado%20State|2|24
+Blockchain-based|Blockchain-based|2|25
+CJ Daniels|CJ%20Daniels|2|25
+John Gibbons|John%20Gibbons|2|25
 The Fate of Ophelia|The%20Fate%20of%20Ophelia|2|25
-The Life of a Showgirl|The%20Life%20of%20a%20Showgirl|2|25
+Glasnow|Glasnow|2|26
 Jon Jones|Jon%20Jones|2|26
+Lee Roy Selmon|Lee%20Roy%20Selmon|2|26
 Diego Pavia|Diego%20Pavia|2|27
 Kluivert|Kluivert|2|27
+Morrow|Morrow|2|27
+Ohio State|Ohio%20State|2|27
 Amad|Amad|2|28
 Cam Schlittler|Cam%20Schlittler|2|28
 Jerry Rice|Jerry%20Rice|2|28
+LOTO|LOTO|2|28
+Topper|Topper|2|28
 Cardi|Cardi|2|29
 Cincy|Cincy|2|29
 FOUR YEARS|FOUR%20YEARS|2|29
 Happy Birthday Sir|Happy%20Birthday%20Sir|2|29
-Tokenized|Tokenized|2|29
 Blue Jays|Blue%20Jays|2|30
 Brian Steele|Brian%20Steele|2|30
 Gavin McKenna|Gavin%20McKenna|2|30
+Schwarber|Schwarber|2|30
 Underwood|Underwood|2|30
+Archbishop of Canterbury|Archbishop%20of%20Canterbury|2|31
 Project 2025|Project%202025|2|31
 Alejandro Kirk|Alejandro%20Kirk|2|32
 Fulham|Fulham|2|32
 Marsh|Marsh|2|32
 Nicki|Nicki|2|32
+Vesia|Vesia|2|32
 Diddler|Diddler|2|33
 Giulia|Giulia|2|33
-Patricia Routledge|Patricia%20Routledge|2|33
 SDSU|SDSU|2|33
 Father Figure|Father%20Figure|2|34
 SBMM|SBMM|2|34
@@ -290,51 +305,39 @@ $PLTR|%24PLTR|2|35
 Lice|Lice|2|35
 Eldest Daughter|Eldest%20Daughter|2|36
 Skip Schumaker|Skip%20Schumaker|2|36
-World Smile Day|World%20Smile%20Day|2|36
 Baugh|Baugh|2|37
 Instant Limit Sell|Instant%20Limit%20Sell|2|37
-ON SALE NOW|ON%20SALE%20NOW|2|37
 Gakpo|Gakpo|2|38
 END 3Q|END%203Q|2|39
 Rose Bowl|Rose%20Bowl|2|39
 Jimbo|Jimbo|2|40
 Dillon Brooks|Dillon%20Brooks|2|41
 Cougars|Cougars|2|42
-Johnny Cash|Johnny%20Cash|2|42
 Chapel Hill|Chapel%20Hill|2|43
-IT'S GAMEDAY|IT%27S%20GAMEDAY|2|43
 Texas Pete|Texas%20Pete|2|43
 The Give|The%20Give|2|43
 Spartans|Spartans|2|44
 $prdt|%24prdt|2|45
-RACE DAY|RACE%20DAY|2|45
+Keeneland|Keeneland|2|45
 Wheeler|Wheeler|2|47
 Lobos|Lobos|2|48
-$PRDT|%24PRDT|1|1
-Arch|Arch|1|4
-Portland PD|Portland%20PD|1|4
-Sanchez|Sanchez|1|5
+Mike Perry|Mike%20Perry|2|50
+Jiri|Jiri|1|3
 #saturdaymorning|saturdaymorning|1|6
 End 1Q|End%201Q|1|6
-Ohtani|Ohtani|1|6
-#CampingWorld|CampingWorld|1|7
 Coco Gauff|Coco%20Gauff|1|7
 GiveRep|GiveRep|1|8
-Portland Police|Portland%20Police|1|8
+Montero|Montero|1|8
 Every GiveRep|Every%20GiveRep|1|9
+#LegacyMVByYEOSANG|LegacyMVByYEOSANG|1|10
 Paul Hughes|Paul%20Hughes|1|10
 #PFLRoadToDubai|PFLRoadToDubai|1|11
-Carnell Tate|Carnell%20Tate|1|11
-GAME DAY|GAME%20DAY|1|11
 Join GiveRep|Join%20GiveRep|1|11
 #ARSWHU|ARSWHU|1|12
 #COYS|COYS|1|12
 End of 1st|End%20of%201st|1|12
-Patchy Mix|Patchy%20Mix|1|12
-#MeanGirlsDay|MeanGirlsDay|1|13
-Carson Beck|Carson%20Beck|1|15
+#FridayVibes|FridayVibes|1|14
 4 YEARS|4%20YEARS|1|16
-#AEWCollision|AEWCollision|1|17
 Declan Rice|Declan%20Rice|1|17
 #BelleCollective|BelleCollective|1|18
 jay jones|jay%20jones|1|18
@@ -347,16 +350,13 @@ Bruce Harrell|Bruce%20Harrell|1|20
 Engage in NFT-based|Engage%20in%20NFT-based|1|20
 After 1|After%201|1|21
 SUI Blockchain|SUI%20Blockchain|1|21
-Texas|Texas|1|21
 #BorderlandsRTX|BorderlandsRTX|1|22
 #2KGiveaway|2KGiveaway|1|23
-Canterbury|Canterbury|1|23
 Semaj Morgan|Semaj%20Morgan|1|23
 #SaturdayVibes|SaturdayVibes|1|24
-$DAZS|%24DAZS|1|24
 Elder Brown|Elder%20Brown|1|24
+Munoz|Munoz|1|24
 #SingaporeGP|SingaporeGP|1|25
-CJ Daniels|CJ%20Daniels|1|25
 Cormani|Cormani|1|25
 Doug Williams|Doug%20Williams|1|25
 Michael Busch|Michael%20Busch|1|25
@@ -365,43 +365,46 @@ Tawee Walker|Tawee%20Walker|1|25
 Venezuelans|Venezuelans|1|25
 Saka|Saka|1|26
 #WeAre|WeAre|1|27
-Abdou Toure|Abdou%20Toure|1|27
 Calafiori|Calafiori|1|27
 Counsell|Counsell|1|27
-Dame Patricia Routledge|Dame%20Patricia%20Routledge|1|27
 David Robertson|David%20Robertson|1|27
 #KUNxMuglerSS26|KUNxMuglerSS26|1|28
 Ayesha|Ayesha|1|28
-Bader|Bader|1|28
+Mariners|Mariners|1|28
 Roval|Roval|1|28
 #thelastdrivein|thelastdrivein|1|29
 Brent Crews|Brent%20Crews|1|29
 Ferrin|Ferrin|1|29
-Julian Sayin|Julian%20Sayin|1|30
+Joe Pyfer|Joe%20Pyfer|1|29
+Tokenized|Tokenized|1|29
 Riggs|Riggs|1|30
 Jarry|Jarry|1|31
 Lando|Lando|1|31
-Malachi Toney|Malachi%20Toney|1|31
 Nick Saban|Nick%20Saban|1|31
 #Huskers|Huskers|1|32
 2nd Quarter|2nd%20Quarter|1|32
-Blue Oyster Cult|Blue%20Oyster%20Cult|1|32
 FRIYAY|FRIYAY|1|32
 George Russell|George%20Russell|1|32
+Mario|Mario|1|32
 Biff|Biff|1|33
 Fire Franklin|Fire%20Franklin|1|33
+Florida State|Florida%20State|1|33
 Jeremiah Smith|Jeremiah%20Smith|1|33
-RED Friday|RED%20Friday|1|33
+Patricia Routledge|Patricia%20Routledge|1|33
 Vini|Vini|1|33
+Anglican|Anglican|1|34
 Chandler Jones|Chandler%20Jones|1|34
 Doval|Doval|1|34
 Hunter Simmons|Hunter%20Simmons|1|34
+Josh Emmett|Josh%20Emmett|1|34
+Kepler|Kepler|1|34
 McCulley|McCulley|1|34
+Soulbound|Soulbound|1|34
 Trojans|Trojans|1|34
 Trossard|Trossard|1|34
 Villarreal|Villarreal|1|34
+#kufball|kufball|1|35
 Antonio Williams|Antonio%20Williams|1|35
-Canes|Canes|1|35
 Iryna's Law|Iryna%27s%20Law|1|35
 Khabib|Khabib|1|35
 Mark Stoops|Mark%20Stoops|1|35
@@ -412,15 +415,16 @@ The PAT|The%20PAT|1|35
 Tyler Warren|Tyler%20Warren|1|35
 Zubimendi|Zubimendi|1|35
 #NYYvsTOR|NYYvsTOR|1|36
+#NayutaUmbrage3D|NayutaUmbrage3D|1|36
 Buckeyes|Buckeyes|1|36
 Caldwell|Caldwell|1|36
 Reaves|Reaves|1|36
 Stoops|Stoops|1|36
 Corey Anderson|Corey%20Anderson|1|37
 Decentralized|Decentralized|1|37
-Hyacinth Bucket|Hyacinth%20Bucket|1|37
+George Kirby|George%20Kirby|1|37
 Matt Campbell|Matt%20Campbell|1|37
-Shohei|Shohei|1|37
+Baby Jesus|Baby%20Jesus|1|38
 End of 3rd|End%20of%203rd|1|38
 Jacob Rodriguez|Jacob%20Rodriguez|1|38
 Livingstone|Livingstone|1|38
@@ -431,9 +435,10 @@ Cross-chain|Cross-chain|1|39
 John Smoltz|John%20Smoltz|1|39
 Justice Kavanaugh|Justice%20Kavanaugh|1|39
 Mr October|Mr%20October|1|39
-Opalite|Opalite|1|39
 Puff|Puff|1|39
 Punisher|Punisher|1|39
+Roundtree|Roundtree|1|39
+SAROCHA FLY TO PFW26|SAROCHA%20FLY%20TO%20PFW26|1|39
 Trade Earn|Trade%20Earn|1|39
 #NLDS|NLDS|1|40
 Flashback Friday|Flashback%20Friday|1|40
@@ -441,34 +446,35 @@ Immutable|Immutable|1|40
 Klobuchar|Klobuchar|1|40
 Locksley|Locksley|1|40
 Mack Brown|Mack%20Brown|1|40
-Manny|Manny|1|40
 San Jose State|San%20Jose%20State|1|40
-Strahm|Strahm|1|40
-Travis Kelce|Travis%20Kelce|1|40
-Broadview ICE|Broadview%20ICE|1|41
 MEET DAY|MEET%20DAY|1|41
 Madsen|Madsen|1|41
 Obamacare|Obamacare|1|41
+Zalal|Zalal|1|41
 Badiashile|Badiashile|1|42
 Enzo|Enzo|1|42
 Football Final|Football%20Final|1|42
 Grubb|Grubb|1|42
-Happy Friday Everyone|Happy%20Friday%20Everyone|1|42
 Mason Heintschel|Mason%20Heintschel|1|42
 Provo|Provo|1|42
 Recognition|Recognition|1|42
+The Life of a Showgirl|The%20Life%20of%20a%20Showgirl|1|42
 Anglicans|Anglicans|1|43
 Chris Bell|Chris%20Bell|1|43
+Colorado|Colorado|1|43
 Dillon Bell|Dillon%20Bell|1|43
 FREO|FREO|1|43
+Gautier|Gautier|1|43
+IT'S GAMEDAY|IT%27S%20GAMEDAY|1|43
 Kauai|Kauai|1|43
 Mustangs|Mustangs|1|43
 Nalyssa|Nalyssa|1|43
+Richard Gere|Richard%20Gere|1|43
 Ruin The Friendship|Ruin%20The%20Friendship|1|43
 Venezuelan|Venezuelan|1|43
 Chiesa|Chiesa|1|44
-GENIE FELIX I.N HAN OUT NOW|GENIE%20FELIX%20I.N%20HAN%20OUT%20NOW|1|44
 Grant Anderson|Grant%20Anderson|1|44
+Johnny Cash|Johnny%20Cash|1|44
 Mean Girls|Mean%20Girls|1|44
 RIP K2|RIP%20K2|1|44
 Raiola|Raiola|1|44
@@ -479,26 +485,27 @@ For ICE|For%20ICE|1|45
 Hilary Duff|Hilary%20Duff|1|45
 Jevon|Jevon|1|45
 Muncy|Muncy|1|45
+RACE DAY|RACE%20DAY|1|45
 Riley Gaines|Riley%20Gaines|1|45
 Terps|Terps|1|45
+The U|The%20U|1|45
 Bob Hope|Bob%20Hope|1|46
 FNATIC|FNATIC|1|46
 Game 1|Game%201|1|46
 Halloween|Halloween|1|46
-Harper|Harper|1|46
-Hyacinth|Hyacinth|1|46
 Indy|Indy|1|46
 Kadyn Proctor|Kadyn%20Proctor|1|46
 Macca|Macca|1|46
+Rob Thomson|Rob%20Thomson|1|46
 Semaj|Semaj|1|46
 Steve Grogan|Steve%20Grogan|1|46
 Boise State|Boise%20State|1|47
 Castillo|Castillo|1|47
 End of the 1st|End%20of%20the%201st|1|47
+Folklore|Folklore|1|47
 Ghost of Yotei|Ghost%20of%20Yotei|1|47
 Holders - 0|Holders%20-%200|1|47
 Kristi|Kristi|1|47
-MILK PANSA LOEWE SS26|MILK%20PANSA%20LOEWE%20SS26|1|47
 Randy Moss|Randy%20Moss|1|47
 Varsity Football|Varsity%20Football|1|47
 Art Bell|Art%20Bell|1|48
@@ -506,24 +513,23 @@ FDV Alert|FDV%20Alert|1|48
 Just 4|Just%204|1|48
 Kane Wommack|Kane%20Wommack|1|48
 Randy Orton|Randy%20Orton|1|48
+Sosa|Sosa|1|48
+World Smile Day|World%20Smile%20Day|1|48
 Boston College|Boston%20College|1|49
+Dowdle|Dowdle|1|49
 Fast TRADE|Fast%20TRADE|1|49
-Freaky Friday|Freaky%20Friday|1|49
 Jessica Tarlov|Jessica%20Tarlov|1|49
 Josh Stein|Josh%20Stein|1|49
 Longhorns|Longhorns|1|49
 NAMTANFILM POLO PFW|NAMTANFILM%20POLO%20PFW|1|49
-Victory Friday|Victory%20Friday|1|49
+State Champs|State%20Champs|1|49
 Yankees|Yankees|1|49
 Zambia|Zambia|1|49
 Arun Subramanian|Arun%20Subramanian|1|50
-Auggie|Auggie|1|50
 Civale|Civale|1|50
 Damian Priest|Damian%20Priest|1|50
 Jam Miller|Jam%20Miller|1|50
 Kerkez|Kerkez|1|50
-Khalil|Khalil|1|50
 Kiah|Kiah|1|50
 Milwaukee|Milwaukee|1|50
 Niners|Niners|1|50
-T Swift|T%20Swift|1|50
