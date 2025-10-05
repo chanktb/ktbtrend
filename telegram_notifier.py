@@ -43,6 +43,7 @@ def build_telegram_message():
         "--- Top 10 Trends ---\n"
         f"{top10_trends}\n"
         "---------------------\n"
+        "khuetran.com/trend/\n"
         f"Status: {git_status}"
     )
     
