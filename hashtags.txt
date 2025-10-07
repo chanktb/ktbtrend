@@ -1,479 +1,378 @@
-#BaddiesAfrica|BaddiesAfrica|12|9
-Patriots|Patriots|11|2
-StandX|StandX|10|2
-Pats|Pats|10|3
-Natalie|Natalie|10|24
-Drake Maye|Drake%20Maye|9|1
-Vrabel|Vrabel|9|5
-#RHOP|RHOP|8|3
-Josh Allen|Josh%20Allen|8|4
-Henderson|Henderson|8|5
-Mariners|Mariners|8|8
-Vatican|Vatican|8|17
-Cardinals|Cardinals|7|1
-Eagles|Eagles|7|1
-Broncos|Broncos|7|2
-Stevenson|Stevenson|7|2
-Titans|Titans|7|2
-Chargers|Chargers|7|3
+Zach Bryan|Zach%20Bryan|12|3
+Jack Smith|Jack%20Smith|10|1
+Baker|Baker|10|13
+#NationalCoachesDay|NationalCoachesDay|9|1
+Travis Hunter|Travis%20Hunter|9|1
+Patriots|Patriots|9|2
+StandX|StandX|9|2
+Bari Weiss|Bari%20Weiss|9|5
+Chiefs|Chiefs|8|1
+Drake Maye|Drake%20Maye|8|1
+Trevor Lawrence|Trevor%20Lawrence|8|1
+Jags|Jags|8|2
+Pats|Pats|8|3
+OpenAI|OpenAI|8|5
+Brandon Johnson|Brandon%20Johnson|8|6
+#DUUUVAL|DUUUVAL|8|7
+#BaddiesAfrica|BaddiesAfrica|8|11
+Cornyn|Cornyn|8|15
+Paxton|Paxton|8|16
+Natalie|Natalie|8|24
+#WWERaw|WWERaw|7|1
+$AMD|%24AMD|7|1
+Phillies|Phillies|7|2
+#MondayMotivation|MondayMotivation|7|4
+Josh Allen|Josh%20Allen|7|4
+Mahomes|Mahomes|7|4
+Vrabel|Vrabel|7|5
 Aldo|Aldo|7|6
-Collinsworth|Collinsworth|7|19
+Ghislaine Maxwell|Ghislaine%20Maxwell|7|7
+Happy Mid-Autumn Festival|Happy%20Mid-Autumn%20Festival|7|9
+Kelce|Kelce|7|13
+CBS News|CBS%20News|7|14
+Dixie Chicks|Dixie%20Chicks|7|17
+Etienne|Etienne|7|22
 Fania|Fania|7|30
-Ravens|Ravens|6|1
-Jets|Jets|6|2
-Diggs|Diggs|6|3
+Good Monday|Good%20Monday|6|1
+EF-5|EF-5|6|4
+Jaguars|Jaguars|6|4
 #LaCasaDeLosFamososMx|LaCasaDeLosFamososMx|6|5
+#RHOP|RHOP|6|7
 Abelito|Abelito|6|8
-Baker|Baker|6|8
+Dave Roberts|Dave%20Roberts|6|8
+Henderson|Henderson|6|8
+#KCvsJAX|KCvsJAX|6|9
 Tre White|Tre%20White|6|9
+Treinen|Treinen|6|9
+Brenton Strange|Brenton%20Strange|6|10
 James Cook|James%20Cook|6|10
+Roki|Roki|6|10
+Shota|Shota|6|12
 McDermott|McDermott|6|14
+Stott|Stott|6|15
+Finebaum|Finebaum|6|16
+Liam Coen|Liam%20Coen|6|20
 Texas National Guard|Texas%20National%20Guard|6|20
 Joseline|Joseline|6|24
 Gonzo|Gonzo|6|37
-#UFC320|UFC320|5|1
-Bills|Bills|5|1
-Good Sunday|Good%20Sunday|5|1
-Jake Browning|Jake%20Browning|5|1
-Bengals|Bengals|5|2
-Jiri|Jiri|5|2
-Pereira|Pereira|5|3
-Raiders|Raiders|5|3
-Geno|Geno|5|4
-Merab|Merab|5|4
-Seahawks|Seahawks|5|4
-#CampingWorld|CampingWorld|5|5
-Bucs|Bucs|5|5
-Panthers|Panthers|5|7
-Cam Ward|Cam%20Ward|5|9
-Happy Mid-Autumn Festival|Happy%20Mid-Autumn%20Festival|5|9
-#SNFonNBC|SNFonNBC|5|10
-Herbert|Herbert|5|10
-Khalil|Khalil|5|10
-#NEvsBUF|NEvsBUF|5|11
+McDavid|McDavid|5|1
+Diggs|Diggs|5|3
+Chris Jones|Chris%20Jones|5|4
+Prime Day|Prime%20Day|5|5
+Stevenson|Stevenson|5|6
+Devin Lloyd|Devin%20Lloyd|5|7
+Brewers|Brewers|5|8
+Victory Monday|Victory%20Monday|5|8
+Butker|Butker|5|9
+Andrew Vaughn|Andrew%20Vaughn|5|12
+Pooh Shiesty|Pooh%20Shiesty|5|12
+The Free Press|The%20Free%20Press|5|12
 Fast Trading|Fast%20Trading|5|14
+National Guard|National%20Guard|5|14
 24H Vol|24H%20Vol|5|15
-Jay Jones|Jay%20Jones|5|16
-TOP CALL|TOP%20CALL|5|16
+Civil War|Civil%20War|5|16
+ICE Free Zones|ICE%20Free%20Zones|5|16
+TLaw|TLaw|5|16
+Diversity|Diversity|5|17
+Geddy|Geddy|5|18
+Collinsworth|Collinsworth|5|19
 AI Alert|AI%20Alert|5|20
-Keon Coleman|Keon%20Coleman|5|21
+Casty|Casty|5|20
+Mayor Johnson|Mayor%20Johnson|5|22
+Pacheco|Pacheco|5|23
 Beane|Beane|5|24
 Fast Buy|Fast%20Buy|5|25
-Joe Brady|Joe%20Brady|5|26
+Bill Nye|Bill%20Nye|5|27
+Sasaki|Sasaki|5|30
+Supremacy Clause|Supremacy%20Clause|5|31
+Jared Leto|Jared%20Leto|5|32
+Jackson Chourio|Jackson%20Chourio|5|35
 No Control|No%20Control|5|39
-Milano|Milano|5|43
-Browns|Browns|4|1
-McLaren|McLaren|4|2
-Vikings|Vikings|4|2
-#Skol|Skol|4|3
-Judkins|Judkins|4|4
-Oscar|Oscar|4|4
-#DawgPound|DawgPound|4|5
-Colts|Colts|4|5
-Giants|Giants|4|5
-Yankees|Yankees|4|5
-Poatan|Poatan|4|6
-Slayton|Slayton|4|6
-Dolphins|Dolphins|4|7
-Ankalaev|Ankalaev|4|8
-Jordan Addison|Jordan%20Addison|4|9
-V AT CELINE FASHION SHOW|V%20AT%20CELINE%20FASHION%20SHOW|4|10
-Jorge Polanco|Jorge%20Polanco|4|11
-Saints|Saints|4|11
-namjoon|namjoon|4|12
-#KeepPounding|KeepPounding|4|13
-#RaiseHail|RaiseHail|4|13
-Gibson|Gibson|4|13
-#YEONJUNxMIUMIU|YEONJUNxMIUMIU|4|14
-Stacey|Stacey|4|14
+#IDontWantToOverreactBUT|IDontWantToOverreactBUT|4|1
+LeBron|LeBron|4|1
+Luzardo|Luzardo|4|1
+#TaylorOnFallon|TaylorOnFallon|4|4
+Edmonton|Edmonton|4|4
+Harper|Harper|4|4
+Oilers|Oilers|4|5
+Turner|Turner|4|5
+$APP|%24APP|4|8
+Maxxine|Maxxine|4|9
+#SNFonNBC|SNFonNBC|4|10
+#NEvsBUF|NEvsBUF|4|11
+Enderlin|Enderlin|4|12
+Cardinals|Cardinals|4|13
+Insurrection Act|Insurrection%20Act|4|13
+Monday Night Football|Monday%20Night%20Football|4|14
+Stephen Miller|Stephen%20Miller|4|14
+Mariners|Mariners|4|15
+Marty Supreme|Marty%20Supreme|4|15
+Santos Escobar|Santos%20Escobar|4|15
+TOP CALL|TOP%20CALL|4|16
+#ThisIsMyCrew|ThisIsMyCrew|4|17
 Daily Vol|Daily%20Vol|4|17
-Eric Collins|Eric%20Collins|4|18
-Mike Tirico|Mike%20Tirico|4|18
-Hochuli|Hochuli|4|19
+Jay Jones|Jay%20Jones|4|18
+60 Minutes|60%20Minutes|4|19
+Castellanos|Castellanos|4|19
 Market Focus|Market%20Focus|4|19
 Shiky|Shiky|4|19
-FNATIC|FNATIC|4|20
-Kyler|Kyler|4|22
+Keon Coleman|Keon%20Coleman|4|21
 POLANCO|POLANCO|4|23
-Harbaugh|Harbaugh|4|24
-Curtis Samuel|Curtis%20Samuel|4|27
-Saturday Night Live|Saturday%20Night%20Live|4|28
+Watergate|Watergate|4|23
+Meathead|Meathead|4|24
+Topper|Topper|4|25
+FanDuel|FanDuel|4|26
+Andy Reid|Andy%20Reid|4|27
+Kidney|Kidney|4|27
+Pick 6|Pick%206|4|27
 72 Dolphins|72%20Dolphins|4|30
+AFC South|AFC%20South|4|31
 Kincaid|Kincaid|4|31
 Andy Borregales|Andy%20Borregales|4|32
 Token Alert|Token%20Alert|4|32
 Holders - 0|Holders%20-%200|4|36
-Strahm|Strahm|4|40
+Spags|Spags|4|38
+Jacob Misiorowski|Jacob%20Misiorowski|4|42
+Milano|Milano|4|43
 #EverlynAI|EverlynAI|3|1
-Bryce Young|Bryce%20Young|3|1
-Cam Akers|Cam%20Akers|3|1
-#HardRockBet|HardRockBet|3|2
-Lando|Lando|3|3
-Wentz|Wentz|3|3
-Dillon Gabriel|Dillon%20Gabriel|3|5
-Riley Moss|Riley%20Moss|3|5
-#sundayvibes|sundayvibes|3|6
-Stefanski|Stefanski|3|6
-Justin Jefferson|Justin%20Jefferson|3|7
-Texans|Texans|3|7
-Sam Darnold|Sam%20Darnold|3|8
-Sevilla|Sevilla|3|8
-Buffalo|Buffalo|3|9
-Jalen|Jalen|3|9
-Aaron Glenn|Aaron%20Glenn|3|10
-Blue Jays|Blue%20Jays|3|10
-Rashford|Rashford|3|10
-Justin Fields|Justin%20Fields|3|11
-Roadster|Roadster|3|11
-Vargas|Vargas|3|11
-Ulberg|Ulberg|3|12
-Bo Nix|Bo%20Nix|3|13
-Go Birds|Go%20Birds|3|13
-Jordan Mason|Jordan%20Mason|3|13
-TAEHYUNG TAEHYUNG|TAEHYUNG%20TAEHYUNG|3|13
-CELINE AMBASSADOR TAEHYUNG|CELINE%20AMBASSADOR%20TAEHYUNG|3|14
+#EndlessGenocideGaza|EndlessGenocideGaza|3|2
+$ZOOZ|%24ZOOZ|3|2
+Bills|Bills|3|5
+#NicolandriaxSweetgreen|NicolandriaxSweetgreen|3|6
+MIU MIU PARIS FW|MIU%20MIU%20PARIS%20FW|3|6
+$PDGN|%24PDGN|3|7
+Arctic Frost|Arctic%20Frost|3|8
+Larry Snelling|Larry%20Snelling|3|8
+#ONEPIECE1162|ONEPIECE1162|3|9
+Republican Senators|Republican%20Senators|3|11
+Sheehan|Sheehan|3|11
+Maxwell|Maxwell|3|12
+Tyson Campbell|Tyson%20Campbell|3|12
+Merkel|Merkel|3|13
 Smart Money|Smart%20Money|3|14
-Zac Taylor|Zac%20Taylor|3|14
-Trey Yesavage|Trey%20Yesavage|3|15
-#TitanUp|TitanUp|3|16
-V FOR PARIS FASHION WEEK|V%20FOR%20PARIS%20FASHION%20WEEK|3|16
-#RaiderNation|RaiderNation|3|17
-BTC ATH|BTC%20ATH|3|17
-Duke|Duke|3|17
-Gannon|Gannon|3|17
+Jacksonville|Jacksonville|3|16
+Jorge Polanco|Jorge%20Polanco|3|16
+$SPRB|%24SPRB|3|17
 2 Buy|2%20Buy|3|18
-Egbuka|Egbuka|3|18
-Using Giverep|Using%20Giverep|3|18
-Zach Orr|Zach%20Orr|3|18
-Jackie Young|Jackie%20Young|3|19
-McDaniel|McDaniel|3|19
-Miami|Miami|3|19
-Logano|Logano|3|20
+Wesley Hunt|Wesley%20Hunt|3|18
+Spitting|Spitting|3|19
+Ashby|Ashby|3|20
 Shawn Hochuli|Shawn%20Hochuli|3|20
+Chanel|Chanel|3|21
 QUICK TRADE|QUICK%20TRADE|3|21
-Sunday Funday|Sunday%20Funday|3|21
+Vidal|Vidal|3|21
+Gibson|Gibson|3|22
+Rob Reiner|Rob%20Reiner|3|22
+Schwarber|Schwarber|3|22
 Smiling Friends|Smiling%20Friends|3|22
-Big Ank|Big%20Ank|3|23
-Denver|Denver|3|23
+Garling|Garling|3|23
+Kaitlan|Kaitlan|3|23
+Mike Tirico|Mike%20Tirico|3|24
+Jimmy Fallon|Jimmy%20Fallon|3|25
 Join GMGN|Join%20GMGN|3|25
+Whoopi|Whoopi|3|25
 FDV 5min|FDV%205min|3|26
-New ATH|New%20ATH|3|26
-Shake|Shake|3|26
 Vederian Lowe|Vederian%20Lowe|3|26
-Canes|Canes|3|27
 Christian Gonzalez|Christian%20Gonzalez|3|27
-Petzing|Petzing|3|27
-joe keery|joe%20keery|3|27
-Jon Jones|Jon%20Jones|3|28
+Joe Brady|Joe%20Brady|3|28
+Kareem Hunt|Kareem%20Hunt|3|29
+Titans|Titans|3|29
+Walman|Walman|3|29
 Wizkid|Wizkid|3|29
-Carpenter|Carpenter|3|30
+Beth|Beth|3|30
+Convention of States|Convention%20of%20States|3|30
 MARCUS JONES|MARCUS%20JONES|3|30
-State Champs|State%20Champs|3|30
-Van Jones|Van%20Jones|3|30
-NFL Sunday|NFL%20Sunday|3|31
+Clay Travis|Clay%20Travis|3|31
 Check Analyze|Check%20Analyze|3|32
-Salter|Salter|3|33
+Chargers|Chargers|3|33
 Token Signal|Token%20Signal|3|33
+Vivienne Westwood|Vivienne%20Westwood|3|33
 AI Signal|AI%20Signal|3|35
 Chivas|Chivas|3|35
-Dan Wilson|Dan%20Wilson|3|36
+Curtis Samuel|Curtis%20Samuel|3|36
 Whale - Buy|Whale%20-%20Buy|3|38
+Dave Toub|Dave%20Toub|3|39
+Cochrane|Cochrane|3|41
 Grok Imagine|Grok%20Imagine|3|41
-Saquon|Saquon|3|45
-Good Monday|Good%20Monday|2|1
-#TSTheErasTour|TSTheErasTour|2|2
-Darren Waller|Darren%20Waller|2|3
-#MondayMotivation|MondayMotivation|2|4
-Jaxson Dart|Jaxson%20Dart|2|4
-#CHAMA|CHAMA|2|6
-#TAEHYUNGxCELINE|TAEHYUNGxCELINE|2|6
-#VxCELINEPFW|VxCELINEPFW|2|7
-#VxCelineEte26|VxCelineEte26|2|8
-#VALORANTChampions|VALORANTChampions|2|9
+$STBL|%24STBL|3|42
+#zoozstock|zoozstock|2|1
+#Klink|Klink|2|2
+Snell|Snell|2|2
+#MondayVibes|MondayVibes|2|7
+Busch|Busch|2|8
 GM CT|GM%20CT|2|9
-Giverep|Giverep|2|9
-#CELINESUMMER2026|CELINESUMMER2026|2|10
-Theo Johnson|Theo%20Johnson|2|10
-Araujo|Araujo|2|11
-#MiuMiuSS26|MiuMiuSS26|2|12
-#TheFateofOpheliaMusicVideo|TheFateofOpheliaMusicVideo|2|12
-Derrick Henry|Derrick%20Henry|2|12
+#jimromeonx|jimromeonx|2|12
 On-chain|On-chain|2|12
-Max Brosmer|Max%20Brosmer|2|13
-Phillies|Phillies|2|13
-Blessed Sunday|Blessed%20Sunday|2|14
-Rico Dowdle|Rico%20Dowdle|2|14
-Sandhagen|Sandhagen|2|14
-Tyler Warren|Tyler%20Warren|2|15
-#666Xcoin|666Xcoin|2|16
-Cory|Cory|2|16
-Dart|Dart|2|16
-Fannin|Fannin|2|16
-Diversity|Diversity|2|17
-Go Browns|Go%20Browns|2|17
-13% APY|13%25%20APY|2|18
-Jerry Jeudy|Jerry%20Jeudy|2|18
+Roy Halladay|Roy%20Halladay|2|12
+Trust in the Lord|Trust%20in%20the%20Lord|2|12
+#Dodgers|Dodgers|2|13
+JENNIE PARIS FASHION WEEK|JENNIE%20PARIS%20FASHION%20WEEK|2|14
+#MondayMood|MondayMood|2|15
+#RawOnNetflix|RawOnNetflix|2|15
+Happy Chuseok|Happy%20Chuseok|2|18
 Marcus Jones|Marcus%20Jones|2|18
-Seek the Lord|Seek%20the%20Lord|2|18
-Elder Holland|Elder%20Holland|2|19
-James Houston|James%20Houston|2|19
-Trade Earn|Trade%20Earn|2|19
-AND NEW|AND%20NEW|2|20
-Lions|Lions|2|20
-Roundtree|Roundtree|2|20
-Sean Payton|Sean%20Payton|2|20
-Cal and Julio|Cal%20and%20Julio|2|21
-Baun|Baun|2|22
-Chris Moore|Chris%20Moore|2|22
-Philly|Philly|2|22
-Greg Newsome|Greg%20Newsome|2|23
-Kevin O'Connell|Kevin%20O%27Connell|2|23
-Max Fried|Max%20Fried|2|23
-Demercado|Demercado|2|24
-Happy World Teachers|Happy%20World%20Teachers|2|24
-Olmo|Olmo|2|24
-#DallasCowboys|DallasCowboys|2|25
-Chastain|Chastain|2|25
-Flick|Flick|2|25
-Fresno State|Fresno%20State|2|25
-Jordan Peterson|Jordan%20Peterson|2|25
-Vando|Vando|2|25
-Aspinall|Aspinall|2|26
-Pete Carroll|Pete%20Carroll|2|26
-With Giverep|With%20Giverep|2|26
-#OnePride|OnePride|2|27
-Dowdle|Dowdle|2|27
-Malachi Toney|Malachi%20Toney|2|27
-Grier|Grier|2|28
-Njoku|Njoku|2|28
-Denzel Ward|Denzel%20Ward|2|29
-Draymond|Draymond|2|29
-Terrion Arnold|Terrion%20Arnold|2|29
-Ross|Ross|2|30
-Tony Romo|Tony%20Romo|2|30
-Daboll|Daboll|2|32
-Ryan Destiny|Ryan%20Destiny|2|32
-Julio and Cal|Julio%20and%20Cal|2|33
-Ringo|Ringo|2|33
-AJ Brown|AJ%20Brown|2|34
-Denny|Denny|2|34
-Meghan|Meghan|2|34
-Callahan|Callahan|2|35
-olivia rodrigo|olivia%20rodrigo|2|35
-Breece Hall|Breece%20Hall|2|36
-Gizelle|Gizelle|2|37
-Hunter Henry|Hunter%20Henry|2|37
-Ja'Marr Chase|Ja%27Marr%20Chase|2|37
-Commanders|Commanders|2|38
-Ohio State|Ohio%20State|2|38
-Waddle|Waddle|2|38
-Ferran|Ferran|2|39
-Mario|Mario|2|39
+#TheSecondDecision|TheSecondDecision|2|19
+Asuka|Asuka|2|19
+North Dakota|North%20Dakota|2|20
+#MondayNightFootball|MondayNightFootball|2|21
+Bohm|Bohm|2|21
+Lisa Su|Lisa%20Su|2|21
+Olympic Games|Olympic%20Games|2|21
+#YEONJUNxMIUMIU|YEONJUNxMIUMIU|2|22
+Thornton|Thornton|2|22
+YVES|YVES|2|22
+Webull|Webull|2|24
+#DanSeats|DanSeats|2|25
+Fire Prevention Week|Fire%20Prevention%20Week|2|25
+Jorge RodrÃ­guez|Jorge%20Rodr%C3%83%C2%ADguez|2|25
+#NLDS|NLDS|2|26
+Gladiator 2|Gladiator%202|2|26
+Supreme Court|Supreme%20Court|2|26
+yves|yves|2|26
+Worthy|Worthy|2|27
+GAME WEEK|GAME%20WEEK|2|28
+Hochuli|Hochuli|2|28
+Kairi|Kairi|2|28
+Rob Thomson|Rob%20Thomson|2|29
+Rebecca Sugar|Rebecca%20Sugar|2|30
+Lara Trump|Lara%20Trump|2|31
+Stacey|Stacey|2|31
+Apps SDK|Apps%20SDK|2|32
+Christian Watson|Christian%20Watson|2|32
+Prices|Prices|2|32
+Warwick|Warwick|2|34
+Comerica|Comerica|2|35
+SEVENTEEN|SEVENTEEN|2|35
+$OSCR|%24OSCR|2|36
+Duval|Duval|2|36
+Chag Sameach|Chag%20Sameach|2|37
+Uribe|Uribe|2|37
+Ja Morant|Ja%20Morant|2|39
+Alex Lifeson|Alex%20Lifeson|2|40
+Freddie Freeman|Freddie%20Freeman|2|40
 Tiba|Tiba|2|40
-CJ Stroud|CJ%20Stroud|2|41
-Patullo|Patullo|2|42
-Norvell|Norvell|2|43
-Vilma|Vilma|2|43
+Judges|Judges|2|41
+Lula|Lula|2|41
+Sukkot|Sukkot|2|41
+Samuel|Samuel|2|42
+Conner|Conner|2|43
+Parker Washington|Parker%20Washington|2|43
 AFC East|AFC%20East|2|44
-Cards|Cards|2|45
-David Montgomery|David%20Montgomery|2|45
+Diane Goodstein|Diane%20Goodstein|2|44
+Haskins|Haskins|2|44
+Highway 50 in Sacramento|Highway%2050%20in%20Sacramento|2|45
+Hollywood Brown|Hollywood%20Brown|2|45
 Market Cap Surges|Market%20Cap%20Surges|2|45
-Goedert|Goedert|2|46
-NO CONTROL|NO%20CONTROL|2|46
+Sportsbook|Sportsbook|2|46
 The Quickest|The%20Quickest|2|46
-Umar|Umar|2|47
+LA Knight|LA%20Knight|2|47
+Xavier Worthy|Xavier%20Worthy|2|47
 Benford|Benford|2|48
-#zoozstock|zoozstock|1|1
-#Klink|Klink|1|2
-UCLA|UCLA|1|2
-$AMD|%24AMD|1|3
-Penn State|Penn%20State|1|3
-Joonie|Joonie|1|4
-#SingaporeGP|SingaporeGP|1|5
-Mark Sanchez|Mark%20Sanchez|1|5
-Arch Manning|Arch%20Manning|1|6
-MIU MIU PARIS FW|MIU%20MIU%20PARIS%20FW|1|6
-#MondayVibes|MondayVibes|1|7
-GiveRep|GiveRep|1|7
-James Franklin|James%20Franklin|1|7
-Victory Monday|Victory%20Monday|1|8
-#NationalCoachesDay|NationalCoachesDay|1|9
-#TheFateOfOpheliaMusicVideo|TheFateOfOpheliaMusicVideo|1|10
+Aikman|Aikman|2|50
+$UNICEF|%24UNICEF|1|2
+Justin Turner|Justin%20Turner|1|5
+#NicolandriaxSweetGreen|NicolandriaxSweetGreen|1|9
+Buffalo|Buffalo|1|9
 On a Sunday|On%20a%20Sunday|1|10
-Taylor|Taylor|1|10
-Chama|Chama|1|11
-Texas|Texas|1|11
-Trust in the Lord|Trust%20in%20the%20Lord|1|12
-Merkel|Merkel|1|13
-Montero|Montero|1|13
-National Guard|National%20Guard|1|14
-Vandy|Vandy|1|14
-Jeudy|Jeudy|1|15
-Gabriel|Gabriel|1|16
-#NYGiants|NYGiants|1|18
+#RedOctober|RedOctober|1|15
+Cheers to StandX|Cheers%20to%20StandX|1|15
+Diallo|Diallo|1|16
+#Dragula|Dragula|1|17
+Brandon Marsh|Brandon%20Marsh|1|17
+Will Smith|Will%20Smith|1|17
 #smilingfriends|smilingfriends|1|18
-$crim|%24crim|1|18
-Happy Chuseok|Happy%20Chuseok|1|18
-The Yankees|The%20Yankees|1|18
-Spitting|Spitting|1|19
-$dazs|%24dazs|1|20
+Freddie|Freddie|1|18
+Strange|Strange|1|19
 Paris Fashion Week|Paris%20Fashion%20Week|1|21
-Portland|Portland|1|21
-#FlyEaglesFly|FlyEaglesFly|1|22
-Kyren Lacy|Kyren%20Lacy|1|22
-Munoz|Munoz|1|22
+Rojas|Rojas|1|21
+TAYLENA|TAYLENA|1|21
 #LaCasaDeLosFamososMx3|LaCasaDeLosFamososMx3|1|23
 #SUNDAYNIGHTFOOTBALL|SUNDAYNIGHTFOOTBALL|1|23
-Karin|Karin|1|23
-Lewandowski|Lewandowski|1|23
-Singleton|Singleton|1|23
-Tyler Nubin|Tyler%20Nubin|1|23
-Baker Mayfield|Baker%20Mayfield|1|24
-Dallas Wilson|Dallas%20Wilson|1|24
-Herb Dean|Herb%20Dean|1|24
-Jonathan Taylor|Jonathan%20Taylor|1|24
-Brewers|Brewers|1|25
-Deonte Banks|Deonte%20Banks|1|25
 #LCDFLMX3|LCDFLMX3|1|26
-Barcelona|Barcelona|1|26
-Jerome Ford|Jerome%20Ford|1|26
-#ForTheShoe|ForTheShoe|1|27
-BADER|BADER|1|27
-George Russell|George%20Russell|1|27
-Myles Garrett|Myles%20Garrett|1|27
+Kerkering|Kerkering|1|26
 smart money|smart%20money|1|27
-#90DayFianceHappilyEverAfter|90DayFianceHappilyEverAfter|1|28
-Brandon Lake|Brandon%20Lake|1|28
-Everton|Everton|1|28
-Gators|Gators|1|28
-Javonte Williams|Javonte%20Williams|1|28
-Muhammad Qasim|Muhammad%20Qasim|1|28
-#RedOctober|RedOctober|1|29
-Achane|Achane|1|29
-Darian Mensah|Darian%20Mensah|1|29
-George Pickens|George%20Pickens|1|29
-Shaheed|Shaheed|1|30
-TEOSCAR|TEOSCAR|1|30
-#GeneralConference|GeneralConference|1|31
-Sauce Gardner|Sauce%20Gardner|1|31
-Azeez|Azeez|1|32
-Full PPR|Full%20PPR|1|32
-Impeach|Impeach|1|32
-SBMM|SBMM|1|32
-Ferg|Ferg|1|33
-Jayden|Jayden|1|33
-John Harbaugh|John%20Harbaugh|1|33
-Josh Oliver|Josh%20Oliver|1|33
-Knox|Knox|1|33
+#OTGala3|OTGala3|1|28
+Phillies ML|Phillies%20ML|1|29
+Vaughn|Vaughn|1|29
+Brenton|Brenton|1|30
+Bronson Reed|Bronson%20Reed|1|30
+Sosa|Sosa|1|30
+Becky Lynch|Becky%20Lynch|1|31
+#LADvsPHI|LADvsPHI|1|32
+Happy New Week|Happy%20New%20Week|1|32
+Miggy Ro|Miggy%20Ro|1|32
+KUN Enchants Paris with Mugler|KUN%20Enchants%20Paris%20with%20Mugler|1|33
+Roman Reigns|Roman%20Reigns|1|33
 The Bills|The%20Bills|1|33
-Conklin|Conklin|1|34
-Go Bills|Go%20Bills|1|34
-Pavia|Pavia|1|34
-Xavier Legette|Xavier%20Legette|1|34
-#PhinsUp|PhinsUp|1|35
-Barca|Barca|1|35
-Jim Knowles|Jim%20Knowles|1|35
-Keith Powers|Keith%20Powers|1|35
-Virginians|Virginians|1|35
-100M TVL|100M%20TVL|1|36
-DIOR GLOBAL AMBASSADOR JIMIN|DIOR%20GLOBAL%20AMBASSADOR%20JIMIN|1|36
-Ryan Flournoy|Ryan%20Flournoy|1|36
-Sanchez|Sanchez|1|36
+BMTH|BMTH|1|34
+$PALU|%24PALU|1|35
+Australian Street Fight|Australian%20Street%20Fight|1|35
+Bunting|Bunting|1|36
 The Patriots|The%20Patriots|1|36
-#DENvsPHI|DENvsPHI|1|37
-Arch|Arch|1|37
-Jonathan Vilma|Jonathan%20Vilma|1|37
-Kenny Pickett|Kenny%20Pickett|1|37
-Kerry|Kerry|1|37
-Latu|Latu|1|37
+Zverev|Zverev|1|36
 Smart Money Move|Smart%20Money%20Move|1|37
-Balenciaga|Balenciaga|1|38
-Colorado|Colorado|1|38
-Jettas|Jettas|1|38
-PERTHSANTA DOMIIA FNV FS|PERTHSANTA%20DOMIIA%20FNV%20FS|1|38
+Bolton|Bolton|1|38
+Nick Castellanos|Nick%20Castellanos|1|38
 Rhamondre|Rhamondre|1|38
-Daniel Jones|Daniel%20Jones|1|39
-Derrick Brown|Derrick%20Brown|1|39
-Football Sunday|Football%20Sunday|1|39
-Kevin OâConnell|Kevin%20O%C3%A2%C2%80%C2%99Connell|1|39
-Peggy Noonan|Peggy%20Noonan|1|39
-Buccaneers|Buccaneers|1|40
-GO CANES|GO%20CANES|1|40
-Insurrection Act|Insurrection%20Act|1|40
-Mensah|Mensah|1|40
-Odin|Odin|1|40
-Patchy Mix|Patchy%20Mix|1|40
-Picktoberfest|Picktoberfest|1|40
-Todd Bowles|Todd%20Bowles|1|40
-Zach McKinstry|Zach%20McKinstry|1|40
-Antonio Gibson|Antonio%20Gibson|1|41
-Carolina|Carolina|1|41
-Iowa State|Iowa%20State|1|41
-Kounde|Kounde|1|41
-Robertson|Robertson|1|41
-Gabe Vincent|Gabe%20Vincent|1|42
-Gausman|Gausman|1|42
-Go to Church|Go%20to%20Church|1|42
+Rob Thompson|Rob%20Thompson|1|38
+#LittleNightmares|LittleNightmares|1|39
+Arkham|Arkham|1|39
+Becky|Becky|1|39
+Eagles|Eagles|1|39
+Grassley|Grassley|1|39
+Jawaan Taylor|Jawaan%20Taylor|1|39
+New Week|New%20Week|1|39
+Biden's FBI|Biden%27s%20FBI|1|40
+Max Kepler|Max%20Kepler|1|40
+Navajo|Navajo|1|40
+REBECCA AT CHANEL PFW SS26|REBECCA%20AT%20CHANEL%20PFW%20SS26|1|40
+Vando|Vando|1|40
+$MSFT|%24MSFT|1|41
 Josh McDaniels|Josh%20McDaniels|1|42
-Nevada|Nevada|1|42
-Rodri|Rodri|1|42
-Samuel|Samuel|1|42
-Za'Darius Smith|Za%27Darius%20Smith|1|42
-Diddy|Diddy|1|43
+Kansas City|Kansas%20City|1|42
+Vesia|Vesia|1|42
+$MET|%24MET|1|43
+Francia|Francia|1|43
 Mike Vrabel|Mike%20Vrabel|1|43
-Milroe|Milroe|1|43
-Nick Chubb|Nick%20Chubb|1|43
-Topper|Topper|1|43
-UNLV|UNLV|1|43
-#SundayMotivation|SundayMotivation|1|44
-Bradley Chubb|Bradley%20Chubb|1|44
-Darnold|Darnold|1|44
+AgentKit|AgentKit|1|44
 FAV MOVIE|FAV%20MOVIE|1|44
-Julian Sayin|Julian%20Sayin|1|44
-Rattler|Rattler|1|44
-trade earn|trade%20earn|1|44
-vernon|vernon|1|44
-Chicago|Chicago|1|45
-Horford|Horford|1|45
-Piastri|Piastri|1|45
-Woody Marks|Woody%20Marks|1|45
-Carson Beck|Carson%20Beck|1|46
-Carson Wentz|Carson%20Wentz|1|46
-Deebo|Deebo|1|46
-Emari Demercado|Emari%20Demercado|1|46
-Jokic|Jokic|1|46
-Juwan Johnson|Juwan%20Johnson|1|46
-Sark|Sark|1|46
-Vikes|Vikes|1|46
-Castillo|Castillo|1|47
-Florida|Florida|1|47
-Landon|Landon|1|47
-NFL Network|NFL%20Network|1|47
-Verstappen|Verstappen|1|47
-Wemby|Wemby|1|47
-sabrina|sabrina|1|47
-Cryptocurrencies|Cryptocurrencies|1|48
-Half PPR|Half%20PPR|1|48
-Pickens|Pickens|1|48
-Roki|Roki|1|48
-Saints ML|Saints%20ML|1|48
-Shane Bowen|Shane%20Bowen|1|48
-Tom McMahon|Tom%20McMahon|1|48
-Toronto|Toronto|1|48
-Weaver|Weaver|1|48
-#WorldTeachersDay|WorldTeachersDay|1|49
-Balde|Balde|1|49
+Happy National Coaches|Happy%20National%20Coaches|1|44
+Hunter Henry|Hunter%20Henry|1|44
+Kevin Long|Kevin%20Long|1|44
+Neil Peart|Neil%20Peart|1|44
+Otto Kemp|Otto%20Kemp|1|44
+Chiefs -3.5|Chiefs%20-3.5|1|45
+Defensive Player of the Week|Defensive%20Player%20of%20the%20Week|1|45
+Edman|Edman|1|45
+Kyler|Kyler|1|45
+NLCS|NLCS|1|45
+Paramount|Paramount|1|45
+Teoscar|Teoscar|1|45
+The Supreme Court|The%20Supreme%20Court|1|45
+Belichick|Belichick|1|46
+Fort Dix|Fort%20Dix|1|46
+NO CONTROL|NO%20CONTROL|1|46
+Olivia Julianna|Olivia%20Julianna|1|46
+Reacher|Reacher|1|46
+taylena|taylena|1|46
+Draymond|Draymond|1|47
+Laden|Laden|1|47
+Moomin|Moomin|1|47
+Puff Daddy|Puff%20Daddy|1|47
+Wonho|Wonho|1|47
+Chapel Hill|Chapel%20Hill|1|48
+Harvest Moon|Harvest%20Moon|1|48
+Herbert|Herbert|1|48
+Retiring|Retiring|1|48
+Seiya|Seiya|1|48
+Sengun|Sengun|1|48
+$CRML|%24CRML|1|49
+$EOSE|%24EOSE|1|49
 Bin Laden|Bin%20Laden|1|49
-Boyd|Boyd|1|49
-Cooper Rush|Cooper%20Rush|1|49
-Isaiah Bond|Isaiah%20Bond|1|49
-Jack Jones|Jack%20Jones|1|49
-Roony|Roony|1|49
-Slye|Slye|1|49
-Surtain|Surtain|1|49
-#KUNxMuglerSS26|KUNxMuglerSS26|1|50
-Darrisaw|Darrisaw|1|50
+Chicago and Portland|Chicago%20and%20Portland|1|49
+Counsell|Counsell|1|49
+Happy Birthday Kelsey|Happy%20Birthday%20Kelsey|1|49
+Pengu Morning|Pengu%20Morning|1|49
+Bucs|Bucs|1|50
 FDV Surge Alert|FDV%20Surge%20Alert|1|50
-Manu|Manu|1|50
-Marcello|Marcello|1|50
-Vanderbilt|Vanderbilt|1|50
+Phils|Phils|1|50
